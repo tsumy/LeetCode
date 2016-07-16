@@ -2,6 +2,7 @@ LeetCode
 ========
 
 ###LeetCode Algorithm
+####Easy level
 python code  
 [344. Reverse String](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/344.%20Reverse%20String.ipynb)  
 [292. Nim Game](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/292.%20Nim%20Game.ipynb)  
