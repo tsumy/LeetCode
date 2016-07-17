@@ -23,5 +23,5 @@ python code
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)
-[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)
-[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)
+[290. Word Pattern](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/290.%20Word%20Pattern.ipynb)
+[19. Remove Nth Node From End of List](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.ipynb)
