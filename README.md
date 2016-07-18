@@ -1,8 +1,8 @@
 LeetCode
 ========
 
-###LeetCode Algorithm
-####Easy level
+### LeetCode Algorithm
+#### Easy level
 python code  
   
 
