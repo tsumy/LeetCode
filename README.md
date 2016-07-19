@@ -6,11 +6,17 @@ LeetCode
 python code  
   
 
-[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)
-[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
 
 [19. Remove Nth Node From End of List](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.ipynb)  
 [104. Maximum Depth of Binary Tree](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb)  
+[190. Reverse Bits](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/190.%20Reverse%20Bits.ipynb)
 [226. Invert Binary Tree](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/226.%20Invert%20Binary%20Tree.ipynb)  
 [237. Delete Node in a Linked List](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/237.%20Delete%20Node%20in%20a%20Linked%20List.ipynb)  
 [258. Add Digits](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/258.%20Add%20Digits.ipynb)  
