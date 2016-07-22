@@ -9,9 +9,20 @@ python code
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+
+
+
 
 [9. Palindrome Number](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/9.%20Palindrome%20Number.ipynb)  
 [13. Roman to Integer](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/13.%20Roman%20to%20Integer.ipynb)  
+[14. Longest Common Prefix](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/14.%20Longest%20Common%20Prefix.ipynb)  
 [19. Remove Nth Node From End of List](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.ipynb)  
 [104. Maximum Depth of Binary Tree](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb)  
 [160. Intersection of Two Linked Lists](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/160.%20Intersection%20of%20Two%20Linked%20Lists.ipynb)  
