@@ -6,6 +6,7 @@ LeetCode
 python code  
 
 
+[1. Two Sum](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/1.%20Two%20Sum.ipynb)  
 [6. ZigZag Conversion](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/6.%20ZigZag%20Conversion.ipynb)  
 [9. Palindrome Number](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/9.%20Palindrome%20Number.ipynb)  
 [13. Roman to Integer](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/13.%20Roman%20to%20Integer.ipynb)  
@@ -25,7 +26,6 @@ python code
 [344. Reverse String](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/344.%20Reverse%20String.ipynb)  
 [349. Intersection of Two Arrays](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/349.%20Intersection%20of%20Two%20Arrays.ipynb)  
 [371. Sum of Two Integers](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/371.%20Sum%20of%20Two%20Integers.ipynb)  
-[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
