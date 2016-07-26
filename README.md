@@ -18,6 +18,9 @@ python code
 [24. Swap Nodes in Pairs](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.ipynb)  
 [26. Remove Duplicates from Sorted Array](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array.ipynb)  
 [27. Remove Element](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/27.%20Remove%20Element.ipynb)  
+[28. Implement strStr()](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/28.%20Implement%20strStr().ipynb)  
+[36. Valid Sudoku](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/36.%20Valid%20Sudoku.ipynb)  
+[38. Count and Say](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/38.%20Count%20and%20Say.ipynb)  
 [67. Add Binary](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/67.%20Add%20Binary.ipynb)  
 [104. Maximum Depth of Binary Tree](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/104.%20Maximum%20Depth%20of%20Binary%20Tree.ipynb)  
 [160. Intersection of Two Linked Lists](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/160.%20Intersection%20of%20Two%20Linked%20Lists.ipynb)  
@@ -33,9 +36,8 @@ python code
 [344. Reverse String](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/344.%20Reverse%20String.ipynb)  
 [349. Intersection of Two Arrays](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/349.%20Intersection%20of%20Two%20Arrays.ipynb)  
 [371. Sum of Two Integers](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/371.%20Sum%20of%20Two%20Integers.ipynb)  
-[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
-[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
-[](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
+
+
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
 [](http://nbviewer.jupyter.org/github/tsumy/LeetCode/blob/master/)  
